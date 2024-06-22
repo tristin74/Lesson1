@@ -1,0 +1,263 @@
+.header {
+  background-color: #f5f7fa;
+  padding-bottom: 20px;
+}
+.bgr1 {
+  padding-top: 110px;
+  padding-left: 80px;
+}
+.form1 {
+  font-size: 70px;
+  font-weight: 600;
+  line-height: 52.9px;
+  text-align: left;
+}
+.form2 {
+  color: #4caf4f;
+}
+.form3 {
+  color: #717171;
+  font-size: 11.14;
+  line-height: 25px;
+  font-weight: 400;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.bt1 {
+  border-radius: 3px;
+  background-color: #4caf4f;
+  border-color: transparent;
+  padding: 5px 22.27px 7px 22.27px;
+  margin-top: 20px;
+}
+.form4 {
+  color: white;
+  font-size: 11.14px;
+}
+.img1 {
+  padding-top: 50px;
+  padding-left: 30px;
+}
+.dot {
+  margin-top: 180px;
+  margin-left: 630px;
+}
+.bgr2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 24px;
+}
+.form5 {
+  font-size: 45px;
+  font-weight: 600;
+  line-height: 50px;
+  color: #4d4d4d;
+  margin-bottom: 20px;
+}
+.form6 {
+  font-size: 16px;
+  color: #717171;
+  line-height: 16.71px;
+  font-weight: 400;
+  margin-top: 16px;
+}
+.bgr3 {
+  display: flex;
+  flex-direction: row;
+  height: 100px;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.bgr4 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: 80px;
+  margin-right: 20px;
+}
+.bgr5 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: 40px;
+  margin-right: 60px;
+}
+.bgr6 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: 60px;
+  margin-right: 40px;
+}
+.form7 {
+  font-weight: 600;
+  font-size: 36px;
+  color: #4d4d4d;
+  text-align: center;
+  margin-top: 15px;
+}
+.form8 {
+  font-weight: 400;
+  font-size: 16px;
+  color: #717171;
+  text-align: center;
+  margin-top: 10px;
+}
+.button1 {
+  padding: 30px 24px 20px 24px;
+  border-radius: 7px;
+  border-color: #abbed133;
+  border-width: 2px;
+  background-color: transparent;
+}
+.main1 {
+  margin-top: 80px;
+}
+.main2 {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: row;
+  padding-bottom: 50px;
+}
+.img2 {
+  margin-left: 150px;
+}
+.slides1 {
+  margin-right: 170px;
+}
+.main3 {
+  background-color: #f5f7fa;
+  margin-top: 20px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 150px;
+}
+.form9 {
+  font-size: 18;
+  font-weight: 400;
+}
+.main4 {
+  display: flex;
+  flex-direction: row;
+  column-gap: 70px;
+}
+.main5 {
+  display: flex;
+  flex-direction: row;
+}
+.form10 {
+  font-weight: 400;
+  font-size: 16;
+  color: #717171;
+}
+.form11 {
+  font-weight: 600;
+  font-size: 28px;
+  color: #4d4d4d;
+  margin-top: 15px;
+}
+.img3 {
+  width: 50px;
+  height: 50px;
+  margin-top: 20px;
+  margin-right: 10px;
+}
+.form12 {
+  font-size: 16px;
+  font-weight: 400;
+  color: #89939e;
+  margin-top: 10px;
+}
+.button2 {
+  border-color: transparent;
+  background-color: transparent;
+}
+.style2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.button3 {
+  padding: 20px 15px 20px 15px;
+  background-color: white;
+  border-color: #abbed166;
+  border-radius: 7px;
+  position: relative;
+  bottom: 100px;
+  align-items: center;
+}
+.form13 {
+  color: #717171;
+  font-size: 22px;
+  line-height: 28px;
+  font-weight: 600;
+  text-align: center;
+}
+.form14 {
+  display: flex;
+  flex-direction: row;
+  color: #4caf4f;
+  margin-left: 100px;
+  margin-top: 30px;
+}
+.seticon {
+  position: relative;
+  bottom: 290px;
+  right: 30px;
+}
+.bgr7 {
+  display: flex;
+  flex-direction: row;
+  background-color: #263238;
+  padding: 50px 100px 40px 100px;
+}
+.form15 {
+  font-size: 14px;
+  color: #f5f7fa;
+  font-weight: 400;
+  margin-top: 30px;
+}
+.form16 {
+  font-size: 14px;
+  color: #f5f7fa;
+  font-weight: 400;
+  margin-bottom: 35px;
+}
+.style3 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+.form17 {
+  font-size: 22px;
+  color: #f5f7fa;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+.form18 {
+  font-size: 14px;
+  color: #f5f7fa;
+  font-weight: 400;
+  margin-top: 15px;
+}
+.style4 {
+  margin-left: 340px;
+}
+.style5 {
+  margin-left: 100px;
+}
+.style6 {
+  margin-left: 100px;
+}
+.button4 {
+  height: 50px;
+  width: 300px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  background-color: rgb(100, 93, 93);
+  border-radius: 10px;
+  border-color: transparent;
+}
